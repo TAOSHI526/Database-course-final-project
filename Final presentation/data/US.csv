@@ -1,0 +1,650 @@
+index,critic,country,org,movie_name,movie_director,movie_year,d1,d2,d1_url,birth_place,d_countries,state,direc_birthyear,age
+0,Simon Abrams,US,Freelance film critic,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+2,Simon Abrams,US,Freelance film critic,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+14,Sam Adams,US,Freelance film critic,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+15,Sam Adams,US,Freelance film critic,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+16,Sam Adams,US,Freelance film critic,The New World ,Terrence Malick,2004.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+19,Sam Adams,US,Freelance film critic,Elephant ,Gus Van Sant,2003.0,Gus Van Sant,,/name/nm0001814/,"Louisville, Kentucky, USA", USA,Kentucky,1952.0,67.0
+20,Thelma Adams,US,Freelance film critic,Zero Dark Thirty ,Kathryn Bigelow,2012.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+22,Thelma Adams,US,Freelance film critic,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+29,Thelma Adams,US,Freelance film critic,Gosford Park ,Robert Altman,2001.0,Robert Altman,,/name/nm0000265/,"Kansas City, Missouri, USA", USA,Missouri,1925.0,94.0
+31,Arturo Aguilar,Mexico,Rolling Stone Mexico,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+39,Arturo Aguilar,Mexico,Rolling Stone Mexico,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+41,Matthew Anderson,UK,BBC Culture,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+45,Matthew Anderson,UK,BBC Culture,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+48,Matthew Anderson,UK,BBC Culture,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+50,Tim Appelo,US,The Wrap,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+54,Tim Appelo,US,The Wrap,Finding Nemo ,Andrew Stanton and Lee Unkrich,2003.0,Andrew Stanton, Lee Unkrich,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+56,Tim Appelo,US,The Wrap,The Wolf of Wall Street ,Martin Scorsese,2013.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+59,Tim Appelo,US,The Wrap,Traffic ,Steven Soderbergh,2000.0,Steven Soderbergh,,/name/nm0001752/,"Atlanta, Georgia, USA", USA,Georgia,1963.0,56.0
+70,Michael Arbeiter,US,Nerdist,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+71,Michael Arbeiter,US,Nerdist,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+73,Michael Arbeiter,US,Nerdist,Black Swan ,Darren Aronofsky,2010.0,Darren Aronofsky,,/name/nm0004716/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+76,Michael Arbeiter,US,Nerdist,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+77,Michael Arbeiter,US,Nerdist,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+78,Michael Arbeiter,US,Nerdist,Only Lovers Left Alive ,Jim Jarmusch,2013.0,Jim Jarmusch,,/name/nm0000464/,"Akron, Ohio, USA", USA,Ohio,1953.0,66.0
+80,Ali Arikan,Turkey,Dipnot TV,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+81,Ali Arikan,Turkey,Dipnot TV,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+83,Ali Arikan,Turkey,Dipnot TV,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+85,Ali Arikan,Turkey,Dipnot TV,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+86,Ali Arikan,Turkey,Dipnot TV,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+93,Michael Atkinson,US,The Village Voice,Adaptation ,Spike Jonze,2002.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+96,Michael Atkinson,US,The Village Voice,Inland Empire ,David Lynch,2006.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+97,Michael Atkinson,US,The Village Voice,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+100,Ana Maria Bahiana,Brazil,Freelance film critic,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+101,Ana Maria Bahiana,Brazil,Freelance film critic,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+106,Ana Maria Bahiana,Brazil,Freelance film critic,The Incredibles ,Brad Bird,2004.0,Brad Bird,,/name/nm0083348/,"Kalispell, Montana, USA", USA,Montana,1957.0,62.0
+108,Ana Maria Bahiana,Brazil,Freelance film critic,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+111,Cameron Bailey,Canada,Toronto Film Festival,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+117,Cameron Bailey,Canada,Toronto Film Festival,Selma ,Ava DuVernay,2014.0,Ava DuVernay,,/name/nm1148550/,"Long Beach, California, USA", USA,California,1972.0,47.0
+120,Lindsay Baker,UK,BBC Culture,The Royal Tenenbaums ,Wes Anderson,2001.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+121,Lindsay Baker,UK,BBC Culture,Far From Heaven ,Todd Haynes,2002.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+122,Lindsay Baker,UK,BBC Culture,Moonrise Kingdom ,Wes Anderson,2012.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+123,Lindsay Baker,UK,BBC Culture,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+124,Lindsay Baker,UK,BBC Culture,A Single Man ,Tom Ford,2009.0,Tom Ford,,/name/nm1053530/,"Austin, Texas, USA", USA,Texas,1961.0,58.0
+126,Lindsay Baker,UK,BBC Culture,Toy Story 3,Lee Unkrich,2010.0,Lee Unkrich,,/name/nm0881279/,"Cleveland, Ohio, USA", USA,Ohio,1967.0,52.0
+129,Lindsay Baker,UK,BBC Culture,Donnie Darko ,Richard Kelly,2001.0,Richard Kelly,,/name/nm0446819/,"Newport News, Virginia, USA", USA,Virginia,1975.0,44.0
+130,Miriam Bale,US,Freelance film critic,Inherent Vice ,Paul Thomas Anderson,2014.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+134,Miriam Bale,US,Freelance film critic,Somewhere ,Sofia Coppola,2010.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+137,Miriam Bale,US,Freelance film critic,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+139,Miriam Bale,US,Freelance film critic,Bamboozled ,Spike Lee,2000.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+140,Nicholas Barber,UK,BBC Culture,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+142,Nicholas Barber,UK,BBC Culture,Anomalisa ,Duke Johnson and Charlie Kaufman,2015.0,Duke Johnson, Charlie Kaufman,/name/nm2122478/,"St. Louis, Missouri, USA", USA,Missouri,1979.0,40.0
+143,Nicholas Barber,UK,BBC Culture,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+146,Nicholas Barber,UK,BBC Culture,The Diving Bell and the Butterfly ,Julian Schnabel,2007.0,Julian Schnabel,,/name/nm0773603/,"Brooklyn, New York, USA", USA,New York,1951.0,68.0
+148,Nicholas Barber,UK,BBC Culture,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+150,Diego Batlle,Argentina,La Nacion,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+153,Diego Batlle,Argentina,La Nacion,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+156,Diego Batlle,Argentina,La Nacion,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+157,Diego Batlle,Argentina,La Nacion,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+158,Diego Batlle,Argentina,La Nacion,Elephant ,Gus Van Sant,2003.0,Gus Van Sant,,/name/nm0001814/,"Louisville, Kentucky, USA", USA,Kentucky,1952.0,67.0
+160,NT Binh,France,Positif,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+163,NT Binh,France,Positif,Million Dollar Baby ,Clint Eastwood,2004.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+168,NT Binh,France,Positif,The New World ,Terrence Malick,2005.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+172,Lizelle Bisschoff,UK,University of Glasgow,Moolaadé ,,,,,/name/nm0545408/,"Buffalo, New York, USA", USA,New York,1928.0,91.0
+180,Christian Blauvelt,US,BBC Culture,Spring Breakers ,Harmony Korine,2012.0,Harmony Korine,,/name/nm0005101/,"Bolinas, California, USA", USA,California,1973.0,46.0
+184,Christian Blauvelt,US,BBC Culture,Star Wars: Episode III – Revenge of the Sith ,George Lucas,2005.0,George Lucas,,/name/nm0000184/,"Modesto, California, USA", USA,California,1944.0,75.0
+186,Christian Blauvelt,US,BBC Culture,The Curious Case of Benjamin Button ,David Fincher,2008.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+189,Christian Blauvelt,US,BBC Culture,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+200,Andreas Borcholte,Germany,Spiegel Online,Requiem for a Dream ,Darren Aronofsky,2000.0,Darren Aronofsky,,/name/nm0004716/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+204,Andreas Borcholte,Germany,Spiegel Online,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+206,Andreas Borcholte,Germany,Spiegel Online,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+208,Andreas Borcholte,Germany,Spiegel Online,Kill Bill: Vol. 1,Quentin Tarantino,2003.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+221,Richard Brody,US,The New Yorker,The Wolf of Wall Street ,Martin Scorsese,2013.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+224,Richard Brody,US,The New Yorker,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+227,Richard Brody,US,The New Yorker,The Future ,Miranda July,2011.0,Miranda July,,/name/nm0432380/,"Barre, Vermont, USA", USA,Vermont,1974.0,45.0
+231,Hannah Brown,Israel,Jerusalem Post,The Royal Tenenbaums ,Wes Anderson,2001.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+232,Hannah Brown,Israel,Jerusalem Post,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+235,Hannah Brown,Israel,Jerusalem Post,Footnote ,Joseph Cedar,2011.0,Joseph Cedar,,/name/nm0147737/,"New York City, New York, USA", USA,New York,1968.0,51.0
+238,Hannah Brown,Israel,Jerusalem Post,You Can Count On Me ,Kenneth Lonergan,2000.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+239,Hannah Brown,Israel,Jerusalem Post,Yossi & Jagger ,Eytan Fox,2002.0,Eytan Fox,,/name/nm0297202/,"New York City, New York, USA", USA,New York,1964.0,55.0
+240,Luke Buckmaster,Australia,The Guardian/BBC Culture,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+241,Luke Buckmaster,Australia,The Guardian/BBC Culture,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+242,Luke Buckmaster,Australia,The Guardian/BBC Culture,"O Brother, Where Art Thou? ",Joel and Ethan Coen,2000.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+249,Luke Buckmaster,Australia,The Guardian/BBC Culture,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+254,Luciano Castillo,Cuba,Cinemateca de Cuba,Elephant ,Gus Van Sant,2003.0,Gus Van Sant,,/name/nm0001814/,"Louisville, Kentucky, USA", USA,Kentucky,1952.0,67.0
+259,Luciano Castillo,Cuba,Cinemateca de Cuba,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+260,Monica Castillo,US,New York Times Watching,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+269,Monica Castillo,US,New York Times Watching,The Royal Tenenbaums ,Wes Anderson,2001.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+271,Samuel Castro,Colombia,El Colombiano,Before Sunset ,Richard Linklater,2004.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+273,Samuel Castro,Colombia,El Colombiano,Ratatouille ,Brad Bird and Jan Pinkava,2007.0,Brad Bird, Jan Pinkava,/name/nm0083348/,"Kalispell, Montana, USA", USA,Montana,1957.0,62.0
+278,Samuel Castro,Colombia,El Colombiano,Minority Report ,Steven Spielberg,2002.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+280,Justin Chang,US,Los Angeles Times,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+281,Justin Chang,US,Los Angeles Times,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+283,Justin Chang,US,Los Angeles Times,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+285,Justin Chang,US,Los Angeles Times,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+290,Enrico Chiesa,Senegal,AfricaFilms.TV,The Three Burials of Melquiades Estrada ,Tommy Lee Jones,2005.0,Tommy Lee Jones,,/name/nm0000169/,"San Saba, Texas, USA", USA,Texas,1946.0,73.0
+291,Enrico Chiesa,Senegal,AfricaFilms.TV,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+300,Cho Seongyong,South Korea,Freelance film critic,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+301,Cho Seongyong,South Korea,Freelance film critic,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+302,Cho Seongyong,South Korea,Freelance film critic,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+303,Cho Seongyong,South Korea,Freelance film critic,Almost Famous ,Cameron Crowe,2000.0,Cameron Crowe,,/name/nm0001081/,"Palm Springs, California, USA", USA,California,1957.0,62.0
+304,Cho Seongyong,South Korea,Freelance film critic,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+306,Cho Seongyong,South Korea,Freelance film critic,Minority Report ,Steven Spielberg,2002.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+307,Cho Seongyong,South Korea,Freelance film critic,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+308,Cho Seongyong,South Korea,Freelance film critic,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+310,Robbie Collin,UK,The Telegraph,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+316,Robbie Collin,UK,The Telegraph,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+317,Robbie Collin,UK,The Telegraph,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+318,Robbie Collin,UK,The Telegraph,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,Larry Charles,2006.0,Larry Charles,,/name/nm0153078/,"Brooklyn, New York City, New York, USA", USA,New York,1956.0,63.0
+321,Scott Collura,US,IGN,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+323,Scott Collura,US,IGN,Spring Breakers ,Harmony Korine,2012.0,Harmony Korine,,/name/nm0005101/,"Bolinas, California, USA", USA,California,1973.0,46.0
+325,Scott Collura,US,IGN,World of Tomorrow ,Don Hertzfeldt,2015.0,Don Hertzfeldt,,/name/nm0381116/,"Fremont, California, USA", USA,California,1976.0,43.0
+327,Scott Collura,US,IGN,The Avengers ,Joss Whedon,2012.0,Joss Whedon,,/name/nm0923736/,"New York City, New York, USA", USA,New York,1964.0,55.0
+328,Scott Collura,US,IGN,Her ,Spike Jonze,2013.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+329,Scott Collura,US,IGN,Kill Bill: Vol. 2,Quentin Tarantino,2004.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+331,Colin Covert,US,Minneapolis Star-Tribune,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+333,Colin Covert,US,Minneapolis Star-Tribune,Manchester by the Sea ,Kenneth Lonergan,2016.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+334,Colin Covert,US,Minneapolis Star-Tribune,Adaptation ,Spike Jonze,2002.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+338,Colin Covert,US,Minneapolis Star-Tribune,Love & Friendship ,Whit Stillman,2016.0,Whit Stillman,,/name/nm0001775/,"Washington, District of Columbia, USA", USA,District of Columbia,1952.0,67.0
+342,Oggs Cruz,Philippines,Rappler.com,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+351,Ken Dancyger,US,New York University,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+353,Ken Dancyger,US,New York University,Lincoln ,Steven Spielberg,2012.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+355,Ken Dancyger,US,New York University,Mystic River ,Clint Eastwood,2003.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+357,Ken Dancyger,US,New York University,American Hustle ,David O. Russell,2013.0,David O. Russell,,/name/nm0751102/,"Manhattan, New York City, New York, USA", USA,New York,1958.0,61.0
+361,Erik Davis,US,Fandango,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+363,Erik Davis,US,Fandango,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+365,Erik Davis,US,Fandango,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+366,Erik Davis,US,Fandango,Finding Nemo ,Andrew Stanton,2003.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+368,Erik Davis,US,Fandango,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+370,Peter Debruge,US,Variety,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+377,Peter Debruge,US,Variety,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+379,Peter Debruge,US,Variety,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,Larry Charles,2006.0,Larry Charles,,/name/nm0153078/,"Brooklyn, New York City, New York, USA", USA,New York,1956.0,63.0
+382,Fernand Denis,Belgium,La Libre Belgique,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+400,Alonso Duralde,US,TheWrap,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+407,Alonso Duralde,US,TheWrap,American Splendor ,Robert Pulcini and Shari Springer Berman,2003.0,Robert Pulcini, Shari Springer Berman,/name/nm0700301/,"New York City, New York, USA", USA,New York,1964.0,55.0
+409,Alonso Duralde,US,TheWrap,Far From Heaven ,Todd Haynes,2002.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+410,Bilge Ebiri,US,The Village Voice,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+412,Bilge Ebiri,US,The Village Voice,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+414,Bilge Ebiri,US,The Village Voice,Love & Basketball ,Gina Prince-Bythewood,2000.0,Gina Prince-Bythewood,,/name/nm0697656/,USA, USA,,1969.0,50.0
+418,Bilge Ebiri,US,The Village Voice,It's Such a Beautiful Day ,Don Hertzfeldt,2012.0,Don Hertzfeldt,,/name/nm0381116/,"Fremont, California, USA", USA,California,1976.0,43.0
+419,Bilge Ebiri,US,The Village Voice,Actress ,Robert Greene,2014.0,Robert Greene,,/name/nm1914992/,"Charlotte, North Carolina, USA", USA,North Carolina,1976.0,43.0
+420,David Ehrlich,US,IndieWire,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+421,David Ehrlich,US,IndieWire,Carol ,Todd Haynes,2015.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+426,David Ehrlich,US,IndieWire,World of Tomorrow ,Don Hertzfeldt,2015.0,Don Hertzfeldt,,/name/nm0381116/,"Fremont, California, USA", USA,California,1976.0,43.0
+427,David Ehrlich,US,IndieWire,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+430,Kate Erbland,US,IndieWire,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+431,Kate Erbland,US,IndieWire,Almost Famous ,Cameron Crowe,2000.0,Cameron Crowe,,/name/nm0001081/,"Palm Springs, California, USA", USA,California,1957.0,62.0
+432,Kate Erbland,US,IndieWire,Collateral ,Michael Mann,2004.0,Michael Mann,,/name/nm0000520/,"Chicago, Illinois, USA", USA,Illinois,1943.0,76.0
+434,Kate Erbland,US,IndieWire,Nightcrawler ,Dan Gilroy,2014.0,Dan Gilroy,,/name/nm0319659/,"Santa Monica, California, USA", USA,California,1959.0,60.0
+435,Kate Erbland,US,IndieWire,Take Shelter ,Jeff Nichols,2011.0,Jeff Nichols,,/name/nm2158772/,"Little Rock, Arkansas, USA", USA,Arkansas,1978.0,41.0
+436,Kate Erbland,US,IndieWire,Fantastic Mr Fox ,Wes Anderson,2009.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+438,Kate Erbland,US,IndieWire,Frances Ha ,Noah Baumbach,2012.0,Noah Baumbach,,/name/nm0000876/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+441,Mario Espinosa,Cuba,Cinemateca de Cuba,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+446,Mario Espinosa,Cuba,Cinemateca de Cuba,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+449,Mario Espinosa,Cuba,Cinemateca de Cuba,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+451,Joseph Fahim,Egypt,Freelance film critic,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+452,Joseph Fahim,Egypt,Freelance film critic,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+456,Joseph Fahim,Egypt,Freelance film critic,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+460,Devin Faraci,US,Birth.Movies.Death.,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+461,Devin Faraci,US,Birth.Movies.Death.,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+462,Devin Faraci,US,Birth.Movies.Death.,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+463,Devin Faraci,US,Birth.Movies.Death.,Spider-Man 2,Sam Raimi,2004.0,Sam Raimi,,/name/nm0000600/,"Royal Oak, Michigan, USA", USA,Michigan,1959.0,60.0
+465,Devin Faraci,US,Birth.Movies.Death.,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+466,Devin Faraci,US,Birth.Movies.Death.,Frozen ,Chris Buck and Jennifer Lee,2013.0,Chris Buck, Jennifer Lee,/name/nm0118333/,"Wichita, Kansas, USA", USA,Kansas,1958.0,61.0
+467,Devin Faraci,US,Birth.Movies.Death.,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+468,Devin Faraci,US,Birth.Movies.Death.,Requiem for a Dream ,Darren Aronofsky,2000.0,Darren Aronofsky,,/name/nm0004716/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+470,David Fear,US,Rolling Stone,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+473,David Fear,US,Rolling Stone,Shame ,Steve McQueen,2011.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+474,David Fear,US,Rolling Stone,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+475,David Fear,US,Rolling Stone,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+476,David Fear,US,Rolling Stone,Manchester by the Sea ,Kenneth Lonergan,2016.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+477,David Fear,US,Rolling Stone,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+480,Scott Feinberg,US,The Hollywood Reporter,Sideways ,Alexander Payne,2004.0,Alexander Payne,,/name/nm0668247/,"Omaha, Nebraska, USA", USA,Nebraska,1961.0,58.0
+481,Scott Feinberg,US,The Hollywood Reporter,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+482,Scott Feinberg,US,The Hollywood Reporter,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+483,Scott Feinberg,US,The Hollywood Reporter,The Diving Bell and the Butterfly ,Julian Schnabel,2007.0,Julian Schnabel,,/name/nm0773603/,"Brooklyn, New York, USA", USA,New York,1951.0,68.0
+485,Scott Feinberg,US,The Hollywood Reporter,Short Term 12,Destin Daniel Cretton,2013.0,Destin Daniel Cretton,,/name/nm2308774/,"Maui, Hawaii, USA", USA,Hawaii,1978.0,41.0
+486,Scott Feinberg,US,The Hollywood Reporter,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+487,Scott Feinberg,US,The Hollywood Reporter,Blue Valentine ,Derek Cianfrance,2010.0,Derek Cianfrance,,/name/nm0161834/,"Lakewood, Colorado, USA", USA,Colorado,1974.0,45.0
+488,Scott Feinberg,US,The Hollywood Reporter,The Squid and the Whale ,Noah Baumbach,2005.0,Noah Baumbach,,/name/nm0000876/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+489,Scott Feinberg,US,The Hollywood Reporter,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+490,Javier Porta Fouz,Argentina,La Nacion,Jersey Boys ,Clint Eastwood,2014.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+495,Javier Porta Fouz,Argentina,La Nacion,Toy Story 3,Lee Unkrich,2010.0,Lee Unkrich,,/name/nm0881279/,"Cleveland, Ohio, USA", USA,Ohio,1967.0,52.0
+498,Javier Porta Fouz,Argentina,La Nacion,Adventureland ,Greg Mottola,2009.0,Greg Mottola,,/name/nm0609549/,"Dix Hills, Long Island, New York, USA", USA,New York,1964.0,55.0
+499,Javier Porta Fouz,Argentina,La Nacion,Open Range ,Kevin Costner,2003.0,Kevin Costner,,/name/nm0000126/,"Lynwood, California, USA", USA,California,1955.0,64.0
+502,Kenji Fujishima,US,Freelance film critic,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+505,Kenji Fujishima,US,Freelance film critic,In Jackson Heights ,Frederick Wiseman,2015.0,Frederick Wiseman,,/name/nm0936464/,"Boston, Massachusetts, USA", USA,Massachusetts,1930.0,89.0
+506,Kenji Fujishima,US,Freelance film critic,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+508,Kenji Fujishima,US,Freelance film critic,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+512,Ernesto Garratt,Chile,El Mercurio,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+516,Ernesto Garratt,Chile,El Mercurio,Donnie Darko ,Richard Kelly,2001.0,Richard Kelly,,/name/nm0446819/,"Newport News, Virginia, USA", USA,Virginia,1975.0,44.0
+518,Ernesto Garratt,Chile,El Mercurio,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+519,Ernesto Garratt,Chile,El Mercurio,Whiplash ,Damien Chazelle,2014.0,Damien Chazelle,,/name/nm3227090/,"Providence, Rhode Island, USA", USA,Rhode Island,1985.0,34.0
+521,Steven Gaydos,US,Variety,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+523,Steven Gaydos,US,Variety,Apocalypto ,Mel Gibson,2006.0,Mel Gibson,,/name/nm0000154/,"Peekskill, New York, USA", USA,New York,1956.0,63.0
+525,Steven Gaydos,US,Variety,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+528,Steven Gaydos,US,Variety,Talladega Nights: The Ballad of Ricky Bobby ,Adam McKay,2006.0,Adam McKay,,/name/nm0570912/,"Philadelphia, Pennsylvania, USA", USA,Pennsylvania,1968.0,51.0
+531,Noah Gittell,US,Washington City Paper,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+532,Noah Gittell,US,Washington City Paper,Bridesmaids ,Paul Feig,2011.0,Paul Feig,,/name/nm0082450/,"Mount Clemens, Michigan, USA", USA,Michigan,1962.0,57.0
+533,Noah Gittell,US,Washington City Paper,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+535,Noah Gittell,US,Washington City Paper,The Look of Silence ,Joshua Oppenheimer,2014.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+536,Noah Gittell,US,Washington City Paper,Punch-Drunk Love ,Paul Thomas Anderson,2002.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+537,Noah Gittell,US,Washington City Paper,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+540,Owen Gleiberman,US,Variety,Far From Heaven ,Todd Haynes,2002.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+545,Owen Gleiberman,US,Variety,Munich ,Steven Spielberg,2005.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+548,Owen Gleiberman,US,Variety,Sideways ,Alexander Payne,2004.0,Alexander Payne,,/name/nm0668247/,"Omaha, Nebraska, USA", USA,Nebraska,1961.0,58.0
+549,Owen Gleiberman,US,Variety,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+550,Ed Gonzalez,US,Slant Magazine,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+552,Ed Gonzalez,US,Slant Magazine,The New World ,Terrence Malick,2005.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+554,Ed Gonzalez,US,Slant Magazine,Femme Fatale ,Brian De Palma,2002.0,Brian De Palma,,/name/nm0000361/,"Newark, New Jersey, USA", USA,New Jersey,1940.0,79.0
+555,Ed Gonzalez,US,Slant Magazine,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+558,Ed Gonzalez,US,Slant Magazine,Two Lovers ,James Gray,2008.0,James Gray,,/name/nm0336695/,"New York City, New York, USA", USA,New York,1969.0,50.0
+559,Ed Gonzalez,US,Slant Magazine,Heart of a Dog ,Laurie Anderson,2015.0,Laurie Anderson,,/name/nm0002173/,"Glen Ellyn, Illinois, USA", USA,Illinois,1947.0,72.0
+564,Juan Carlos González,Colombia,El Tiempo,Elephant ,Gus Van Sant,2003.0,Gus Van Sant,,/name/nm0001814/,"Louisville, Kentucky, USA", USA,Kentucky,1952.0,67.0
+566,Juan Carlos González,Colombia,El Tiempo,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+568,Juan Carlos González,Colombia,El Tiempo,Frances Ha ,Noah Baumbach,2012.0,Noah Baumbach,,/name/nm0000876/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+571,Carmen Gray,Germany,Berlin Critics’ Week,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+574,Carmen Gray,Germany,Berlin Critics’ Week,Spring Breakers ,Harmony Korine,2012.0,Harmony Korine,,/name/nm0005101/,"Bolinas, California, USA", USA,California,1973.0,46.0
+581,Tim Grierson,US,Screen International,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+582,Tim Grierson,US,Screen International,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+583,Tim Grierson,US,Screen International,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+586,Tim Grierson,US,Screen International,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+587,Tim Grierson,US,Screen International,It's Such a Beautiful Day ,Don Hertzfeldt,2012.0,Don Hertzfeldt,,/name/nm0381116/,"Fremont, California, USA", USA,California,1976.0,43.0
+588,Tim Grierson,US,Screen International,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+589,Tim Grierson,US,Screen International,Shutter Island ,Martin Scorsese,2010.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+595,Jean-Philippe Guerand,France,L'Avant-Scène Cinéma,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+598,Jean-Philippe Guerand,France,L'Avant-Scène Cinéma,Kill Bill: Vol. 1,Quentin Tarantino,2003.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+601,Antoine Guillot,France,France Culture,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+606,Antoine Guillot,France,France Culture,Elephant ,Gus Van Sant,2003.0,Gus Van Sant,,/name/nm0001814/,"Louisville, Kentucky, USA", USA,Kentucky,1952.0,67.0
+610,Tom Gunning,US,University of Chicago,The New World ,Terrence Malick,2005.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+611,Tom Gunning,US,University of Chicago,Capitalism: Child Labor ,Ken Jacobs,2007.0,Ken Jacobs,,/name/nm0414499/,"Williamsburg, Brooklyn, New York City, New York, USA", USA,New York,1933.0,86.0
+612,Tom Gunning,US,University of Chicago,Psalm III: 'Night of the Meek' ,Phil Solomon,2002.0,Phil Solomon,,/name/nm0813409/,"Manhattan, New York City, New York, USA", USA,New York,1954.0,65.0
+630,Hauvick Habechian,Lebanon,An-Nahar Newspaper,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+631,Hauvick Habechian,Lebanon,An-Nahar Newspaper,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+632,Hauvick Habechian,Lebanon,An-Nahar Newspaper,AI: Artificial Intelligence ,Steven Spielberg,2001.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+640,Angie Han,US,Slashfilm,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+642,Angie Han,US,Slashfilm,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+644,Angie Han,US,Slashfilm,Me and You and Everyone We Know ,Miranda July,2005.0,Miranda July,,/name/nm0432380/,"Barre, Vermont, USA", USA,Vermont,1974.0,45.0
+645,Angie Han,US,Slashfilm,Gone Girl ,David Fincher,2014.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+646,Angie Han,US,Slashfilm,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+647,Angie Han,US,Slashfilm,Only Lovers Left Alive ,Jim Jarmusch,2013.0,Jim Jarmusch,,/name/nm0000464/,"Akron, Ohio, USA", USA,Ohio,1953.0,66.0
+648,Angie Han,US,Slashfilm,Selma ,Ava DuVernay,2014.0,Ava DuVernay,,/name/nm1148550/,"Long Beach, California, USA", USA,California,1972.0,47.0
+649,Angie Han,US,Slashfilm,Pain & Gain ,Michael Bay,2013.0,Michael Bay,,/name/nm0000881/,"Los Angeles, California, USA", USA,California,1965.0,54.0
+650,Aisha Harris,US,Slate,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+651,Aisha Harris,US,Slate,When the Levees Broke: A Requiem in Four Acts ,Spike Lee,2006.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+653,Aisha Harris,US,Slate,Her ,Spike Jonze,2013.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+655,Aisha Harris,US,Slate,Before Midnight ,Richard Linklater,2013.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+656,Aisha Harris,US,Slate,The Look of Silence ,Joshua Oppenheimer,2014.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+657,Aisha Harris,US,Slate,Fruitvale Station ,Ryan Coogler,2013.0,Ryan Coogler,,/name/nm3363032/,"Oakland, California, USA", USA,California,1986.0,33.0
+658,Aisha Harris,US,Slate,Love & Basketball ,Gina Prince-Bythewood,2000.0,Gina Prince-Bythewood,,/name/nm0697656/,USA, USA,,1969.0,50.0
+659,Aisha Harris,US,Slate,Brick ,Rian Johnson,2005.0,Rian Johnson,,/name/nm0426059/,"Silver Spring, Maryland, USA", USA,Maryland,1973.0,46.0
+662,Tina Hassannia,Canada,Freelance film critic,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+667,Tina Hassannia,Canada,Freelance film critic,The Royal Tenenbaums ,Wes Anderson,2001.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+668,Tina Hassannia,Canada,Freelance film critic,Spring Breakers ,Harmony Korine,2012.0,Harmony Korine,,/name/nm0005101/,"Bolinas, California, USA", USA,California,1973.0,46.0
+673,Shiguehiko Hasumi,Japan,University of Tokyo,Gran Torino ,Clint Eastwood,2008.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+675,Shiguehiko Hasumi,Japan,University of Tokyo,Fantastic Mr Fox ,Wes Anderson,2012.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+677,Shiguehiko Hasumi,Japan,University of Tokyo,Death Proof – Grindhouse ,Quentin Tarantino,2007.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+686,Katarina Hedrén,South Africa,Freelance film critic,Hunger ,Steve McQueen,2008.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+687,Katarina Hedrén,South Africa,Freelance film critic,Fruitvale Station ,Ryan Coogler,2013.0,Ryan Coogler,,/name/nm3363032/,"Oakland, California, USA", USA,California,1986.0,33.0
+689,Katarina Hedrén,South Africa,Freelance film critic,Middle of Nowhere ,Ava DuVernay,2012.0,Ava DuVernay,,/name/nm1148550/,"Long Beach, California, USA", USA,California,1972.0,47.0
+690,Jordan Hoffman,US,Freelance film critic,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+691,Jordan Hoffman,US,Freelance film critic,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+693,Jordan Hoffman,US,Freelance film critic,Waking Life ,Richard Linklater,2001.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+696,Jordan Hoffman,US,Freelance film critic,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+699,Jordan Hoffman,US,Freelance film critic,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,Larry Charles,2006.0,Larry Charles,,/name/nm0153078/,"Brooklyn, New York City, New York, USA", USA,New York,1956.0,63.0
+700,Michael Hogan,US,Vanity Fair,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+701,Michael Hogan,US,Vanity Fair,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+702,Michael Hogan,US,Vanity Fair,The Descendants ,Alexander Payne,2011.0,Alexander Payne,,/name/nm0668247/,"Omaha, Nebraska, USA", USA,Nebraska,1961.0,58.0
+703,Michael Hogan,US,Vanity Fair,Beasts of the Southern Wild ,Benh Zeitlin,2012.0,Benh Zeitlin,,/name/nm1022455/,"Manhattan, New York, USA", USA,New York,1982.0,37.0
+704,Michael Hogan,US,Vanity Fair,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+706,Michael Hogan,US,Vanity Fair,Bridesmaids ,Paul Feig,2011.0,Paul Feig,,/name/nm0082450/,"Mount Clemens, Michigan, USA", USA,Michigan,1962.0,57.0
+707,Michael Hogan,US,Vanity Fair,Spring Breakers ,Harmony Korine,2012.0,Harmony Korine,,/name/nm0005101/,"Bolinas, California, USA", USA,California,1973.0,46.0
+711,Ann Hornaday,US,The Washington Post,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+712,Ann Hornaday,US,The Washington Post,The Hurt Locker ,Kathryn Bigelow,2008.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+715,Ann Hornaday,US,The Washington Post,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+716,Ann Hornaday,US,The Washington Post,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+717,Ann Hornaday,US,The Washington Post,Michael Clayton ,Tony Gilroy,2007.0,Tony Gilroy,,/name/nm0006904/,"Manhattan, New York City, New York, USA", USA,New York,1956.0,63.0
+718,Ann Hornaday,US,The Washington Post,You Can Count on Me Me ,Kenneth Lonergan,2000.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+719,Ann Hornaday,US,The Washington Post,Finding Nemo ,Andrew Stanton and Lee Unkrich,2003.0,Andrew Stanton, Lee Unkrich,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+720,Alexander Horwath,Austria,Austrian Film Museum,,,,,,/name/nm0545408/,"Buffalo, New York, USA", USA,New York,1928.0,91.0
+721,Peter Howell,Canada,The Toronto Star,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+723,Peter Howell,Canada,The Toronto Star,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+725,Peter Howell,Canada,The Toronto Star,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+729,Peter Howell,Canada,The Toronto Star,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+731,Annette Insdorf,US,Columbia University,Good Night and Good Luck ,George Clooney,2005.0,George Clooney,,/name/nm0000123/,"Lexington, Kentucky, USA", USA,Kentucky,1961.0,58.0
+732,Annette Insdorf,US,Columbia University,Hugo ,Martin Scorsese,2011.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+736,Annette Insdorf,US,Columbia University,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+737,Annette Insdorf,US,Columbia University,Quills ,Philip Kaufman,2000.0,Philip Kaufman,,/name/nm0442241/,"Chicago, Illinois, USA", USA,Illinois,1936.0,83.0
+744,Aysha Iqbal,India,Indian Institute of Technology,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+745,Aysha Iqbal,India,Indian Institute of Technology,The Wolf of Wall Street ,Martin Scorsese,2013.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+748,Aysha Iqbal,India,Indian Institute of Technology,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+752,Zhanna Issabayeva,Kazakhstan,Freelance film critic,Only Lovers Left Alive ,Jim Jarmusch,2013.0,Jim Jarmusch,,/name/nm0000464/,"Akron, Ohio, USA", USA,Ohio,1953.0,66.0
+757,Zhanna Issabayeva,Kazakhstan,Freelance film critic,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+759,Zhanna Issabayeva,Kazakhstan,Freelance film critic,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+761,Larushka Ivan-Zadeh,UK,Metro,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+763,Larushka Ivan-Zadeh,UK,Metro,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+765,Larushka Ivan-Zadeh,UK,Metro,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+767,Larushka Ivan-Zadeh,UK,Metro,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+769,Larushka Ivan-Zadeh,UK,Metro,The Wrestler ,Darren Aronofsky,2008.0,Darren Aronofsky,,/name/nm0004716/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+770,Larushka Ivan-Zadeh,UK,Metro,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+774,Nick James,UK,Sight & Sound,Zero Dark Thirty ,Kathryn Bigelow,2012.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+777,Nick James,UK,Sight & Sound,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+778,Nick James,UK,Sight & Sound,The Look of Silence ,Joshua Oppenheimer,2014.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+781,David Jenkins,UK,Little White Lies,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+783,David Jenkins,UK,Little White Lies,Punch-Drunk Love ,Paul Thomas Anderson,2002.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+784,David Jenkins,UK,Little White Lies,Ghost World ,Terry Zwigoff,2001.0,Terry Zwigoff,,/name/nm0959062/,"Appleton, Wisconsin, USA", USA,Wisconsin,1949.0,70.0
+791,Kent Jones,US,Film Comment,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+792,Kent Jones,US,Film Comment,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+793,Kent Jones,US,Film Comment,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+795,Kent Jones,US,Film Comment,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+798,Kent Jones,US,Film Comment,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+799,Kent Jones,US,Film Comment,Moonrise Kingdom ,Wes Anderson,2012.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+803,Manuel Kalmanovitz,Colombia,Revista Semana,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+805,Manuel Kalmanovitz,Colombia,Revista Semana,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+811,Dominik Kamalzadeh,Austria,Der Standard,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+821,Dave Karger,US,Freelance,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+822,Dave Karger,US,Freelance,Silver Linings Playbook ,David O. Russell,2012.0,David O. Russell,,/name/nm0751102/,"Manhattan, New York City, New York, USA", USA,New York,1958.0,61.0
+824,Dave Karger,US,Freelance,Michael Clayton ,Tony Gilroy,2007.0,Tony Gilroy,,/name/nm0006904/,"Manhattan, New York City, New York, USA", USA,New York,1956.0,63.0
+825,Dave Karger,US,Freelance,Blue Valentine ,Derek Cianfrance,2010.0,Derek Cianfrance,,/name/nm0161834/,"Lakewood, Colorado, USA", USA,Colorado,1974.0,45.0
+836,Butheina Kazim,UAE,Cinema Akil,Only Lovers Left Alive ,Jim Jarmusch,2013.0,Jim Jarmusch,,/name/nm0000464/,"Akron, Ohio, USA", USA,Ohio,1953.0,66.0
+837,Butheina Kazim,UAE,Cinema Akil,Kill Bill: Vol. 1,Quentin Tarantino,2003.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+838,Butheina Kazim,UAE,Cinema Akil,The Royal Tenenbaums ,Wes Anderson,2001.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+843,Glenn Kenny,US,Freelance,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+845,Glenn Kenny,US,Freelance,Che ,Steven Soderbergh,2008.0,Steven Soderbergh,,/name/nm0001752/,"Atlanta, Georgia, USA", USA,Georgia,1963.0,56.0
+846,Glenn Kenny,US,Freelance,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+847,Glenn Kenny,US,Freelance,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+850,Glenn Kenny,US,Freelance,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+860,Andreas Kilb,Germany,Frankfurter Allgemeine Zeitung,Far From Heaven ,Todd Haynes,2002.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+865,Uri Klein,Israel,Haaretz,Far From Heaven ,Todd Haynes,2002.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+871,Eric Kohn,US,IndieWire,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+878,Eric Kohn,US,IndieWire,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+879,Eric Kohn,US,IndieWire,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+883,Dan Kois,US,Slate,Before Sunset ,Richard Linklater,2004.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+884,Dan Kois,US,Slate,You Can Count On Me ,Kenneth Lonergan,2000.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+885,Dan Kois,US,Slate,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+891,Michael Koresky,US,The Film Society of Lincoln Center,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+892,Michael Koresky,US,The Film Society of Lincoln Center,AI: Artificial Intelligence ,Steven Spielberg,2001.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+893,Michael Koresky,US,The Film Society of Lincoln Center,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+898,Michael Koresky,US,The Film Society of Lincoln Center,Before Sunset ,Richard Linklater,2004.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+900,Michael Koresky,US,The Film Society of Lincoln Center,Femme Fatale ,Brian De Palma,2002.0,Brian De Palma,,/name/nm0000361/,"Newark, New Jersey, USA", USA,New Jersey,1940.0,79.0
+903,Tomris Laffly,US,Freelance film critic,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+904,Tomris Laffly,US,Freelance film critic,You Can Count On Me ,Kenneth Lonergan,2000.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+906,Tomris Laffly,US,Freelance film critic,Letters From Iwo Jima ,Clint Eastwood,2006.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+907,Tomris Laffly,US,Freelance film critic,Nebraska ,Alexander Payne,2013.0,Alexander Payne,,/name/nm0668247/,"Omaha, Nebraska, USA", USA,Nebraska,1961.0,58.0
+912,Rebecca Laurence,UK,BBC Culture,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+914,Rebecca Laurence,UK,BBC Culture,Good Night and Good Luck ,George Clooney,2005.0,George Clooney,,/name/nm0000123/,"Lexington, Kentucky, USA", USA,Kentucky,1961.0,58.0
+917,Rebecca Laurence,UK,BBC Culture,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+919,Rebecca Laurence,UK,BBC Culture,Ratatouille ,Brad Bird and Jan Pinkava,2007.0,Brad Bird, Jan Pinkava,/name/nm0083348/,"Kalispell, Montana, USA", USA,Montana,1957.0,62.0
+922,Richard Lawson,US,Vanity Fair,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+923,Richard Lawson,US,Vanity Fair,Before Sunset ,Richard Linklater,2004.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+926,Richard Lawson,US,Vanity Fair,Wet Hot American Summer ,David Wain,2001.0,David Wain,,/name/nm0906476/,"Shaker Heights, Ohio, USA", USA,Ohio,1969.0,50.0
+927,Richard Lawson,US,Vanity Fair,Cast Away ,Robert Zemeckis,2000.0,Robert Zemeckis,,/name/nm0000709/,"Chicago, Illinois, USA", USA,Illinois,1951.0,68.0
+929,Richard Lawson,US,Vanity Fair,Traffic ,Steven Soderbergh,2000.0,Steven Soderbergh,,/name/nm0001752/,"Atlanta, Georgia, USA", USA,Georgia,1963.0,56.0
+941,Anastasiya Lelyukh,UAE,Front Row Filmed Entertainment,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+946,Anastasiya Lelyukh,UAE,Front Row Filmed Entertainment,Silver Linings Playbook ,David O. Russell,2012.0,David O. Russell,,/name/nm0751102/,"Manhattan, New York City, New York, USA", USA,New York,1958.0,61.0
+949,Anastasiya Lelyukh,UAE,Front Row Filmed Entertainment,The Curious Case of Benjamin Button ,David Fincher,2008.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+950,Anastasiya Lelyukh,UAE,Front Row Filmed Entertainment,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+965,Mario Naito López,Cuba,Cuban Film Press Association,Carol ,Todd Haynes,2015.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+973,Verena Lueken,Germany,Frankfurter Allgemeine Zeitung,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+975,Verena Lueken,Germany,Frankfurter Allgemeine Zeitung,Shame ,Steve McQueen,2011.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+977,Verena Lueken,Germany,Frankfurter Allgemeine Zeitung,The Hurt Locker ,Kathryn Bigelow,2008.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+979,Verena Lueken,Germany,Frankfurter Allgemeine Zeitung,Winter's Bone ,Debra Granik,2010.0,Debra Granik,,/name/nm0335138/,"Cambridge, Massachusetts, USA", USA,Massachusetts,1963.0,56.0
+987,Fiona Macdonald,UK,BBC Culture,Bridesmaids ,Paul Feig,2011.0,Paul Feig,,/name/nm0082450/,"Mount Clemens, Michigan, USA", USA,Michigan,1962.0,57.0
+989,Fiona Macdonald,UK,BBC Culture,"O Brother, Where Art Thou? ",Joel and Ethan Coen,2000.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+990,Fiona Macdonald,UK,BBC Culture,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+993,Laya Maheshwari,India,Freelance film critic,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+994,Laya Maheshwari,India,Freelance film critic,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+996,Laya Maheshwari,India,Freelance film critic,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1011,Ben Mankiewicz,US,Turner Classic Movies,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1012,Ben Mankiewicz,US,Turner Classic Movies,Spotlight ,Tom McCarthy,2015.0,Tom McCarthy,,/name/nm0565336/,"New Providence, New Jersey, USA", USA,New Jersey,1966.0,53.0
+1018,Ben Mankiewicz,US,Turner Classic Movies,Letters From Iwo Jima ,Clint Eastwood,2006.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+1019,Ben Mankiewicz,US,Turner Classic Movies,Anchorman: The Legend of Ron Burgundy ,Adam McKay,2004.0,Adam McKay,,/name/nm0570912/,"Philadelphia, Pennsylvania, USA", USA,Pennsylvania,1968.0,51.0
+1020,Ben Mankiewicz,US,Turner Classic Movies,The Wrestler ,Darren Aronofsky,2008.0,Darren Aronofsky,,/name/nm0004716/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+1022,Calum Marsh,Canada,Freelance film critic,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1025,Calum Marsh,Canada,Freelance film critic,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+1026,Calum Marsh,Canada,Freelance film critic,Crank ,Mark Neveldine and Brian Taylor,2006.0,Mark Neveldine, Brian Taylor,/name/nm0004410/,"Watertown, New York, USA", USA,New York,1973.0,46.0
+1028,Calum Marsh,Canada,Freelance film critic,Miami Vice ,Michael Mann,2006.0,Michael Mann,,/name/nm0000520/,"Chicago, Illinois, USA", USA,Illinois,1943.0,76.0
+1037,Lee Marshall,Italy,Screen International,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1050,Adrian Martin,Australia,Lola Magazine,Femme Fatale ,Brian De Palma,2002.0,Brian De Palma,,/name/nm0000361/,"Newark, New Jersey, USA", USA,New Jersey,1940.0,79.0
+1051,Antonio Martínez,Chile,El Mercurio,The Wolf of Wall Street ,Martin Scorsese,2013.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+1052,Antonio Martínez,Chile,El Mercurio,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1054,Antonio Martínez,Chile,El Mercurio,Million Dollar Baby ,Clint Eastwood,2004.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+1059,Antonio Martínez,Chile,El Mercurio,Before the Devil Knows You're Dead ,Sidney Lumet,2007.0,Sidney Lumet,,/name/nm0001486/,"Philadelphia, Pennsylvania, USA", USA,Pennsylvania,1924.0,95.0
+1060,Antonio Martínez,Chile,El Mercurio,Match Point ,Woody Allen,2005.0,Woody Allen,,/name/nm0000095/,"Brooklyn, New York City, New York, USA", USA,New York,1935.0,84.0
+1062,Todd McCarthy,US,The Hollywood Reporter,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1064,Todd McCarthy,US,The Hollywood Reporter,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1066,Todd McCarthy,US,The Hollywood Reporter,The Incredibles ,Brad Bird,2004.0,Brad Bird,,/name/nm0083348/,"Kalispell, Montana, USA", USA,Montana,1957.0,62.0
+1068,Todd McCarthy,US,The Hollywood Reporter,Fantastic Mr Fox ,Wes Anderson,2009.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1076,Joe McElhaney,US,Hunter College,Warming by the Devil's Fire ,Charles Burnett,2003.0,Charles Burnett,,/name/nm0122344/,"Vicksburg, Mississippi, USA", USA,Mississippi,1944.0,75.0
+1077,Joe McElhaney,US,Hunter College,The New World ,Terrence Malick,2005.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1079,Joe McElhaney,US,Hunter College,You Will Meet a Tall Dark Stranger ,Woody Allen,2010.0,Woody Allen,,/name/nm0000095/,"Brooklyn, New York City, New York, USA", USA,New York,1935.0,84.0
+1080,Joe McElhaney,US,Hunter College,The Hateful Eight ,Quentin Tarantino,2015.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+1086,Drew McWeeny,US,HitFix,Hedwig and the Angry Inch ,John Cameron Mitchell,2001.0,John Cameron Mitchell,,/name/nm0593463/,"El Paso, Texas, USA", USA,Texas,1963.0,56.0
+1091,Kim Morgan,US,Sight & Sound/Criterion,Inherent Vice ,Paul Thomas Anderson,2014.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1092,Kim Morgan,US,Sight & Sound/Criterion,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1094,Kim Morgan,US,Sight & Sound/Criterion,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1097,Kim Morgan,US,Sight & Sound/Criterion,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1101,Kate Muir,UK,The Times,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1102,Kate Muir,UK,The Times,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1104,Kate Muir,UK,The Times,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1106,Kate Muir,UK,The Times,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1111,Chris Nashawaty,US,Entertainment Weekly,Before Midnight ,Richard Linklater,2013.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1113,Chris Nashawaty,US,Entertainment Weekly,Munich ,Steven Spielberg,2005.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+1114,Chris Nashawaty,US,Entertainment Weekly,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1115,Chris Nashawaty,US,Entertainment Weekly,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1118,Chris Nashawaty,US,Entertainment Weekly,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+1119,Chris Nashawaty,US,Entertainment Weekly,Best in Show ,Christopher Guest,2000.0,Christopher Guest,,/name/nm0001302/,"New York City, New York, USA", USA,New York,1948.0,71.0
+1123,Farran Smith Nehme,US,The New York Post/Film Comment,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1125,Farran Smith Nehme,US,The New York Post/Film Comment,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+1127,Farran Smith Nehme,US,The New York Post/Film Comment,Selma ,Ava DuVernay,2014.0,Ava DuVernay,,/name/nm1148550/,"Long Beach, California, USA", USA,California,1972.0,47.0
+1131,Joe Neumaier,US,WOR-710AM New York,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1132,Joe Neumaier,US,WOR-710AM New York,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1133,Joe Neumaier,US,WOR-710AM New York,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+1134,Joe Neumaier,US,WOR-710AM New York,Carol ,Todd Haynes,2015.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+1137,Joe Neumaier,US,WOR-710AM New York,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1138,Joe Neumaier,US,WOR-710AM New York,Fruitvale Station ,Ryan Coogler,2013.0,Ryan Coogler,,/name/nm3363032/,"Oakland, California, USA", USA,California,1986.0,33.0
+1139,Joe Neumaier,US,WOR-710AM New York,Blue Valentine ,Derek Cianfrance,2010.0,Derek Cianfrance,,/name/nm0161834/,"Lakewood, Colorado, USA", USA,Colorado,1974.0,45.0
+1140,Joe Neumaier,US,WOR-710AM New York,Her ,Spike Jonze,2013.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+1142,Chris Newbould,UAE,The National,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+1143,Chris Newbould,UAE,The National,Spotlight ,Tom McCarthy,2015.0,Tom McCarthy,,/name/nm0565336/,"New Providence, New Jersey, USA", USA,New Jersey,1966.0,53.0
+1147,Chris Newbould,UAE,The National,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1149,Chris Newbould,UAE,The National,Che ,Steven Soderbergh,2008.0,Steven Soderbergh,,/name/nm0001752/,"Atlanta, Georgia, USA", USA,Georgia,1963.0,56.0
+1150,Chris Newbould,UAE,The National,Ghost World ,Terry Zwigoff,2001.0,Terry Zwigoff,,/name/nm0959062/,"Appleton, Wisconsin, USA", USA,Wisconsin,1949.0,70.0
+1151,Amy Nicholson,US,MTV News,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+1153,Amy Nicholson,US,MTV News,Django Unchained ,Quentin Tarantino,2012.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+1154,Amy Nicholson,US,MTV News,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1155,Amy Nicholson,US,MTV News,Alpha Dog ,Nick Cassavetes,2006.0,Nick Cassavetes,,/name/nm0001024/,"New York City, New York, USA", USA,New York,1959.0,60.0
+1156,Amy Nicholson,US,MTV News,Her ,Spike Jonze,2013.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+1159,Amy Nicholson,US,MTV News,Tropic Thunder ,Ben Stiller,2008.0,Ben Stiller,,/name/nm0001774/,"New York City, New York, USA", USA,New York,1965.0,54.0
+1171,Susanne Ostwald,Switzerland,Neue Zürcher Zeitung,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1179,Susanne Ostwald,Switzerland,Neue Zürcher Zeitung,Spring Breakers ,Harmony Korine,2012.0,Harmony Korine,,/name/nm0005101/,"Bolinas, California, USA", USA,California,1973.0,46.0
+1184,Matthew Patches,US,Thrillist,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1185,Matthew Patches,US,Thrillist,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1187,Matthew Patches,US,Thrillist,Zero Dark Thirty ,Kathryn Bigelow,2012.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+1188,Matthew Patches,US,Thrillist,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1190,Matthew Patches,US,Thrillist,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,Larry Charles,2006.0,Larry Charles,,/name/nm0153078/,"Brooklyn, New York City, New York, USA", USA,New York,1956.0,63.0
+1191,Steve Persall,US,Tampa Bay Times,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1196,Steve Persall,US,Tampa Bay Times,Almost Famous ,Cameron Crowe,2000.0,Cameron Crowe,,/name/nm0001081/,"Palm Springs, California, USA", USA,California,1957.0,62.0
+1197,Steve Persall,US,Tampa Bay Times,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1198,Steve Persall,US,Tampa Bay Times,Kill Bill: Vol. 1,Quentin Tarantino,2003.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+1199,Steve Persall,US,Tampa Bay Times,Donnie Darko ,Richard Kelly,2001.0,Richard Kelly,,/name/nm0446819/,"Newport News, Virginia, USA", USA,Virginia,1975.0,44.0
+1200,Steve Persall,US,Tampa Bay Times,"O Brother, Where Art Thou? ",Joel and Ethan Coen,2000.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1201,Michael Phillips,US,Chicago Tribune,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1202,Michael Phillips,US,Chicago Tribune,Ratatouille ,Brad Bird and Jan Pinkava,2007.0,Brad Bird, Jan Pinkava,/name/nm0083348/,"Kalispell, Montana, USA", USA,Montana,1957.0,62.0
+1204,Michael Phillips,US,Chicago Tribune,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1206,Michael Phillips,US,Chicago Tribune,Her ,Spike Jonze,2013.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+1207,Michael Phillips,US,Chicago Tribune,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1209,Michael Phillips,US,Chicago Tribune,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1210,Michael Phillips,US,Chicago Tribune,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1213,Keith Phipps,US,Uproxx,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1214,Keith Phipps,US,Uproxx,Waking Life ,Richard Linklater,2001.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1216,Keith Phipps,US,Uproxx,Moonrise Kingdom ,Wes Anderson,2012.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1217,Keith Phipps,US,Uproxx,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1219,Keith Phipps,US,Uproxx,AI: Artificial Intelligence ,Steven Spielberg,2001.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+1220,Keith Phipps,US,Uproxx,Only Lovers Left Alive ,Jim Jarmusch,2013.0,Jim Jarmusch,,/name/nm0000464/,"Akron, Ohio, USA", USA,Ohio,1953.0,66.0
+1226,Hannah Pilarczyk,Germany,Der Spiegel,Carol ,Todd Haynes,2015.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+1228,Hannah Pilarczyk,Germany,Der Spiegel,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1241,Claudia Puig,US,Freelance film critic,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1244,Claudia Puig,US,Freelance film critic,The Hurt Locker ,Kathryn Bigelow,2008.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+1247,Claudia Puig,US,Freelance film critic,Sin Nombre ,Cary Joji Fukunaga,2009.0,Cary Joji Fukunaga,,/name/nm1560977/,"Oakland, California, USA", USA,California,1977.0,42.0
+1248,Claudia Puig,US,Freelance film critic,Nebraska ,Alexander Payne,2013.0,Alexander Payne,,/name/nm0668247/,"Omaha, Nebraska, USA", USA,Nebraska,1961.0,58.0
+1249,Claudia Puig,US,Freelance film critic,Fruitvale Station ,Ryan Coogler,2013.0,Ryan Coogler,,/name/nm3363032/,"Oakland, California, USA", USA,California,1986.0,33.0
+1271,Jordan Raup,US,The Film Stage,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1274,Jordan Raup,US,The Film Stage,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1275,Jordan Raup,US,The Film Stage,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1276,Jordan Raup,US,The Film Stage,Inherent Vice ,Paul Thomas Anderson,2014.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1278,Jordan Raup,US,The Film Stage,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+1279,Jordan Raup,US,The Film Stage,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1280,Jordan Raup,US,The Film Stage,Carol ,Todd Haynes,2015.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+1281,Isabelle Regnier,France,Le Monde,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1284,Isabelle Regnier,France,Le Monde,The Yards ,James Gray,2000.0,James Gray,,/name/nm0336695/,"New York City, New York, USA", USA,New York,1969.0,50.0
+1288,Isabelle Regnier,France,Le Monde,Twixt ,Francis Ford Coppola,2011.0,Francis Ford Coppola,,/name/nm0000338/,"Detroit, Michigan, USA", USA,Michigan,1939.0,80.0
+1290,Isabelle Regnier,France,Le Monde,Spring Breakers ,Harmony Korine,2012.0,Harmony Korine,,/name/nm0005101/,"Bolinas, California, USA", USA,California,1973.0,46.0
+1291,Mauricio Reina,Colombia,El Tiempo,The Diving Bell and the Butterfly ,Julian Schnabel,2007.0,Julian Schnabel,,/name/nm0773603/,"Brooklyn, New York, USA", USA,New York,1951.0,68.0
+1294,Mauricio Reina,Colombia,El Tiempo,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1296,Mauricio Reina,Colombia,El Tiempo,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1299,Mauricio Reina,Colombia,El Tiempo,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+1302,Scott Renshaw,US,Salt Lake City Weekly,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1303,Scott Renshaw,US,Salt Lake City Weekly,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1305,Scott Renshaw,US,Salt Lake City Weekly,It's Such a Beautiful Day ,Don Hertzfeldt,2012.0,Don Hertzfeldt,,/name/nm0381116/,"Fremont, California, USA", USA,California,1976.0,43.0
+1308,Scott Renshaw,US,Salt Lake City Weekly,Sita Sings the Blues ,Nina Paley,2008.0,Nina Paley,,/name/nm1315434/,"Champaign, Illinois, USA", USA,Illinois,1968.0,51.0
+1312,Katey Rich,US,Vanity Fair,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+1314,Katey Rich,US,Vanity Fair,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1316,Katey Rich,US,Vanity Fair,The Diving Bell and the Butterfly ,Julian Schnabel,2007.0,Julian Schnabel,,/name/nm0773603/,"Brooklyn, New York, USA", USA,New York,1951.0,68.0
+1323,Carrie Rickey,US,Freelance film critic,Her ,Spike Jonze,2013.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+1326,Carrie Rickey,US,Freelance film critic,The New World ,Terrence Malick,2005.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1329,Carrie Rickey,US,Freelance film critic,Selma ,Ava DuVernay,2014.0,Ava DuVernay,,/name/nm1148550/,"Long Beach, California, USA", USA,California,1972.0,47.0
+1330,Carrie Rickey,US,Freelance film critic,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1334,Sam Rigby,UK,BBC Culture,Finding Nemo ,Andrew Stanton and Lee Unkrich,2003.0,Andrew Stanton, Lee Unkrich,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+1335,Sam Rigby,UK,BBC Culture,Whiplash ,Damien Chazelle,2014.0,Damien Chazelle,,/name/nm3227090/,"Providence, Rhode Island, USA", USA,Rhode Island,1985.0,34.0
+1336,Sam Rigby,UK,BBC Culture,Shame ,Steve McQueen,2011.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1338,Sam Rigby,UK,BBC Culture,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1343,Antonio Mazón Robau,Cuba,Cinemateca de Cuba,The Hurt Locker ,Kathryn Bigelow,2008.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+1351,Tim Robey,UK,The Daily Telegraph,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1352,Tim Robey,UK,The Daily Telegraph,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+1355,Tim Robey,UK,The Daily Telegraph,Carol ,Todd Haynes,2015.0,Todd Haynes,,/name/nm0001331/,"Los Angeles, California, USA", USA,California,1961.0,58.0
+1358,Tim Robey,UK,The Daily Telegraph,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+1359,Tim Robey,UK,The Daily Telegraph,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1360,Tim Robey,UK,The Daily Telegraph,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1361,Tasha Robinson,US,The Verge,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1363,Tasha Robinson,US,The Verge,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1366,Tasha Robinson,US,The Verge,The Incredibles ,Brad Bird,2004.0,Brad Bird,,/name/nm0083348/,"Kalispell, Montana, USA", USA,Montana,1957.0,62.0
+1367,Tasha Robinson,US,The Verge,Gosford Park ,Robert Altman,2001.0,Robert Altman,,/name/nm0000265/,"Kansas City, Missouri, USA", USA,Missouri,1925.0,94.0
+1370,Tasha Robinson,US,The Verge,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+1371,Rene Rodriguez,US,The Miami Herald,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1373,Rene Rodriguez,US,The Miami Herald,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1374,Rene Rodriguez,US,The Miami Herald,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1378,Rene Rodriguez,US,The Miami Herald,Adaptation ,Spike Jonze,2002.0,Spike Jonze,,/name/nm0005069/,"Rockville, Maryland, USA", USA,Maryland,1969.0,50.0
+1380,Rene Rodriguez,US,The Miami Herald,Elephant ,Gus Van Sant,2003.0,Gus Van Sant,,/name/nm0001814/,"Louisville, Kentucky, USA", USA,Kentucky,1952.0,67.0
+1385,Jonathan Romney,UK,Freelance film critic,The Royal Tenenbaums ,Wes Anderson,2001.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1391,Alyssa Rosenberg,US,The Washington Post,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1393,Alyssa Rosenberg,US,The Washington Post,Zero Dark Thirty ,Kathryn Bigelow,2012.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+1396,Alyssa Rosenberg,US,The Washington Post,Moonrise Kingdom ,Wes Anderson,2012.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1397,Alyssa Rosenberg,US,The Washington Post,Beasts of the Southern Wild ,Benh Zeitlin,2012.0,Benh Zeitlin,,/name/nm1022455/,"Manhattan, New York, USA", USA,New York,1982.0,37.0
+1398,Alyssa Rosenberg,US,The Washington Post,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1399,Alyssa Rosenberg,US,The Washington Post,Short Term 12,Destin Daniel Cretton,2013.0,Destin Daniel Cretton,,/name/nm2308774/,"Maui, Hawaii, USA", USA,Hawaii,1978.0,41.0
+1400,Alyssa Rosenberg,US,The Washington Post,Monster ,Patty Jenkins,2003.0,Patty Jenkins,,/name/nm0420941/,"George Air Force Base, Victorville, California, USA", USA,California,1971.0,48.0
+1406,E Nina Rothe,Italy,The Huffington Post,99 Homes,Ramin Bahrani,2014.0,Ramin Bahrani,,/name/nm1023919/,"North Carolina, USA", USA,North Carolina,1975.0,44.0
+1407,E Nina Rothe,Italy,The Huffington Post,Somewhere ,Sofia Coppola,2010.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+1411,Joshua Rothkopf,US,Time Out New York,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1412,Joshua Rothkopf,US,Time Out New York,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1415,Joshua Rothkopf,US,Time Out New York,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1419,Joshua Rothkopf,US,Time Out New York,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1420,Joshua Rothkopf,US,Time Out New York,A Serious Man ,Joel and Ethan Coen,2009.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1421,Mohammed Rouda,Lebanon,Asharq Al-Awsat,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1424,Mohammed Rouda,Lebanon,Asharq Al-Awsat,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1425,Mohammed Rouda,Lebanon,Asharq Al-Awsat,Letters From Iwo Jima ,Clint Eastwood,2006.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+1431,Mike Ryan,US,Uproxx,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1432,Mike Ryan,US,Uproxx,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1433,Mike Ryan,US,Uproxx,Almost Famous ,Cameron Crowe,2000.0,Cameron Crowe,,/name/nm0001081/,"Palm Springs, California, USA", USA,California,1957.0,62.0
+1434,Mike Ryan,US,Uproxx,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+1435,Mike Ryan,US,Uproxx,Punch-Drunk Love ,Paul Thomas Anderson,2002.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1436,Mike Ryan,US,Uproxx,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1438,Mike Ryan,US,Uproxx,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1439,Mike Ryan,US,Uproxx,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1440,Mike Ryan,US,Uproxx,Spotlight ,Tom McCarthy,2015.0,Tom McCarthy,,/name/nm0565336/,"New Providence, New Jersey, USA", USA,New Jersey,1966.0,53.0
+1444,Alaka Sahani,India,The Indian Express,Kill Bill: Vol. 1,Quentin Tarantino,2003.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+1449,Alaka Sahani,India,The Indian Express,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+1465,Eric Sasono,Indonesia,Freelance film critic,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1471,Nick Schager,US,Variety,The New World ,Terrence Malick,2005.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1472,Nick Schager,US,Variety,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1473,Nick Schager,US,Variety,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1474,Nick Schager,US,Variety,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1477,Nick Schager,US,Variety,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1478,Nick Schager,US,Variety,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1479,Nick Schager,US,Variety,"Synecdoche, New York ",Charlie Kaufman,2008.0,Charlie Kaufman,,/name/nm0442109/,"New York City, New York, USA", USA,New York,1958.0,61.0
+1482,Missy Schwartz,US,Freelance film critic,Zero Dark Thirty ,Kathryn Bigelow,2012.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+1483,Missy Schwartz,US,Freelance film critic,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+1485,Missy Schwartz,US,Freelance film critic,The Departed ,Martin Scorsese,2006.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+1486,Missy Schwartz,US,Freelance film critic,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1489,Missy Schwartz,US,Freelance film critic,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1492,Matt Zoller Seitz,US,New York Magazine,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1493,Matt Zoller Seitz,US,New York Magazine,The Look of Silence ,Joshua Oppenheimer,2014.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1494,Matt Zoller Seitz,US,New York Magazine,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1495,Matt Zoller Seitz,US,New York Magazine,Knight of Cups ,Terrence Malick,2015.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1496,Matt Zoller Seitz,US,New York Magazine,Inherent Vice ,Paul Thomas Anderson,2014.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1497,Matt Zoller Seitz,US,New York Magazine,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1503,Avner Shavit,Israel,Walla,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1504,Avner Shavit,Israel,Walla,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1505,Avner Shavit,Israel,Walla,The Hurt Locker ,Kathryn Bigelow,2008.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+1511,Catherine Shoard,UK,The Guardian,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1512,Catherine Shoard,UK,The Guardian,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1516,Catherine Shoard,UK,The Guardian,Nebraska ,Alexander Payne,2013.0,Alexander Payne,,/name/nm0668247/,"Omaha, Nebraska, USA", USA,Nebraska,1961.0,58.0
+1517,Catherine Shoard,UK,The Guardian,Before Sunset ,Richard Linklater,2004.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1518,Catherine Shoard,UK,The Guardian,Team America: World Police ,Trey Parker,2004.0,Trey Parker,,/name/nm0005295/,"Conifer, Colorado, USA", USA,Colorado,1969.0,50.0
+1520,Catherine Shoard,UK,The Guardian,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,Larry Charles,2006.0,Larry Charles,,/name/nm0153078/,"Brooklyn, New York City, New York, USA", USA,New York,1956.0,63.0
+1523,Yael Shuv,Israel,Time Out Tel Aviv,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+1524,Yael Shuv,Israel,Time Out Tel Aviv,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1525,Yael Shuv,Israel,Time Out Tel Aviv,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1531,Matt Singer,US,ScreenCrush,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1533,Matt Singer,US,ScreenCrush,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1535,Matt Singer,US,ScreenCrush,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1536,Matt Singer,US,ScreenCrush,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1537,Matt Singer,US,ScreenCrush,The Diving Bell and the Butterfly ,Julian Schnabel,2007.0,Julian Schnabel,,/name/nm0773603/,"Brooklyn, New York, USA", USA,New York,1951.0,68.0
+1539,Matt Singer,US,ScreenCrush,Inside Out ,Pete Docter,2015.0,Pete Docter,,/name/nm0230032/,"Bloomington, Minnesota, USA", USA,Minnesota,1968.0,51.0
+1540,Matt Singer,US,ScreenCrush,Step Brothers ,Adam McKay,2008.0,Adam McKay,,/name/nm0570912/,"Philadelphia, Pennsylvania, USA", USA,Pennsylvania,1968.0,51.0
+1544,Justine A Smith,Canada,Freelance film critic,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1547,Justine A Smith,Canada,Freelance film critic,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1548,Justine A Smith,Canada,Freelance film critic,Only Lovers Left Alive ,Jim Jarmusch,2013.0,Jim Jarmusch,,/name/nm0000464/,"Akron, Ohio, USA", USA,Ohio,1953.0,66.0
+1549,Justine A Smith,Canada,Freelance film critic,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1552,Eric D Snider,US,Freelance film critic,Requiem for a Dream ,Darren Aronofsky,2000.0,Darren Aronofsky,,/name/nm0004716/,"Brooklyn, New York City, New York, USA", USA,New York,1969.0,50.0
+1558,Eric D Snider,US,Freelance film critic,Toy Story 3,Lee Unkrich,2010.0,Lee Unkrich,,/name/nm0881279/,"Cleveland, Ohio, USA", USA,Ohio,1967.0,52.0
+1559,Eric D Snider,US,Freelance film critic,Kiss Kiss Bang Bang ,Shane Black,2005.0,Shane Black,,/name/nm0000948/,"Pittsburgh, Pennsylvania, USA", USA,Pennsylvania,1961.0,58.0
+1560,Eric D Snider,US,Freelance film critic,Inside Llewyn Davis ,Joel and Ethan Coen,2013.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1561,Soh Jae Yong,South Korea,Seoul Institute of the Arts,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1562,Soh Jae Yong,South Korea,Seoul Institute of the Arts,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1568,Soh Jae Yong,South Korea,Seoul Institute of the Arts,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+1569,Soh Jae Yong,South Korea,Seoul Institute of the Arts,Bowling for Columbine ,Michael Moore,2002.0,Michael Moore,,/name/nm0601619/,"Flint, Michigan, USA", USA,Michigan,1954.0,65.0
+1571,Fernanda Solórzano,Mexico,Letras Libres Magazine,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1577,Fernanda Solórzano,Mexico,Letras Libres Magazine,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1588,David Stratton,Australia,The Australian,Million Dollar Baby ,Clint Eastwood,2004.0,Clint Eastwood,,/name/nm0000142/,"San Francisco, California, USA", USA,California,1930.0,89.0
+1589,David Stratton,Australia,The Australian,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1592,Cédric Succivalli,Italy,International Cinephile Society,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+1593,Cédric Succivalli,Italy,International Cinephile Society,The New World ,Terrence Malick,2005.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1599,Cédric Succivalli,Italy,International Cinephile Society,Gerry ,Gus Van Sant,2002.0,Gus Van Sant,,/name/nm0001814/,"Louisville, Kentucky, USA", USA,Kentucky,1952.0,67.0
+1612,Charles Taylor,US,The Yale Review,Only Lovers Left Alive ,Jim Jarmusch,2013.0,Jim Jarmusch,,/name/nm0000464/,"Akron, Ohio, USA", USA,Ohio,1953.0,66.0
+1613,Charles Taylor,US,The Yale Review,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1614,Charles Taylor,US,The Yale Review,Somewhere ,Sofia Coppola,2010.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+1615,Charles Taylor,US,The Yale Review,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1616,Charles Taylor,US,The Yale Review,Inglourious Basterds ,Quentin Tarantino,2009.0,Quentin Tarantino,,/name/nm0000233/,"Knoxville, Tennessee, USA", USA,Tennessee,1963.0,56.0
+1619,Charles Taylor,US,The Yale Review,Femme Fatale ,Brian De Palma,2002.0,Brian De Palma,,/name/nm0000361/,"Newark, New Jersey, USA", USA,New Jersey,1940.0,79.0
+1620,Charles Taylor,US,The Yale Review,Fantastic Mr Fox ,Wes Anderson,2009.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1622,Ella Taylor,US,NPR.org,The Master ,Paul Thomas Anderson,2012.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1625,Ella Taylor,US,NPR.org,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+1626,Ella Taylor,US,NPR.org,Ratatouille ,Brad Bird and Jan Pinkava,2007.0,Brad Bird, Jan Pinkava,/name/nm0083348/,"Kalispell, Montana, USA", USA,Montana,1957.0,62.0
+1632,Stephen Teo,Singapore,Nanyang Techological University,The Grand Budapest Hotel ,Wes Anderson,2014.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1635,Stephen Teo,Singapore,Nanyang Techological University,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1636,Stephen Teo,Singapore,Nanyang Techological University,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1646,Kristin Thompson,US,University of Wisconsin-Madison,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1648,Kristin Thompson,US,University of Wisconsin-Madison,Moonrise Kingdom ,Wes Anderson,2012.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1651,Scott Tobias,US,Freelance film critic,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1652,Scott Tobias,US,Freelance film critic,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1653,Scott Tobias,US,Freelance film critic,Zodiac ,David Fincher,2007.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1655,Scott Tobias,US,Freelance film critic,Margaret ,Kenneth Lonergan,2011.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+1657,Scott Tobias,US,Freelance film critic,25th Hour,Spike Lee,2002.0,Spike Lee,,/name/nm0000490/,"Atlanta, Georgia, USA", USA,Georgia,1957.0,62.0
+1660,Scott Tobias,US,Freelance film critic,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1661,Peter Travers,US,Rolling Stone,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1662,Peter Travers,US,Rolling Stone,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1663,Peter Travers,US,Rolling Stone,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1664,Peter Travers,US,Rolling Stone,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1666,Peter Travers,US,Rolling Stone,The Departed ,Martin Scorsese,2006.0,Martin Scorsese,,/name/nm0000217/,"Queens, New York City, New York, USA", USA,New York,1942.0,77.0
+1668,Peter Travers,US,Rolling Stone,12 Years a Slave,Steve McQueen,2013.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1670,Peter Travers,US,Rolling Stone,Manchester by the Sea ,Kenneth Lonergan,2016.0,Kenneth Lonergan,,/name/nm0518836/,"New York City, New York, USA", USA,New York,1962.0,57.0
+1673,Brian Truitt,US,USA Today,Captain America: Winter Soldier ,Anthony and Joe Russo,2014.0,Anthony, Joe Russo,/name/nm3597101/,"Sacramento County, California, USA", USA,California,1987.0,32.0
+1676,Brian Truitt,US,USA Today,Brick ,Rian Johnson,2005.0,Rian Johnson,,/name/nm0426059/,"Silver Spring, Maryland, USA", USA,Maryland,1973.0,46.0
+1677,Brian Truitt,US,USA Today,Chicago ,Rob Marshall,2002.0,Rob Marshall,,/name/nm0551128/,"Madison, Wisconsin, USA", USA,Wisconsin,1960.0,59.0
+1678,Brian Truitt,US,USA Today,Tropic Thunder ,Ben Stiller,2008.0,Ben Stiller,,/name/nm0001774/,"New York City, New York, USA", USA,New York,1965.0,54.0
+1680,Brian Truitt,US,USA Today,Silver Linings Playbook ,David O. Russell,2012.0,David O. Russell,,/name/nm0751102/,"Manhattan, New York City, New York, USA", USA,New York,1958.0,61.0
+1691,Wen Tien-Hsiang,Taiwan,Taipei Golden Horse Film Festival,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1700,Wen Tien-Hsiang,Taiwan,Taipei Golden Horse Film Festival,Bowling for Columbine ,Michael Moore,2002.0,Michael Moore,,/name/nm0601619/,"Flint, Michigan, USA", USA,Michigan,1954.0,65.0
+1701,Stephen Whitty,US,Freelance film critic,Shame ,Steve McQueen,2011.0,Steve McQueen,,/name/nm0000537/,"Beech Grove, Indiana, USA", USA,Indiana,1930.0,89.0
+1702,Stephen Whitty,US,Freelance film critic,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1705,Stephen Whitty,US,Freelance film critic,Boyhood ,Richard Linklater,2014.0,Richard Linklater,,/name/nm0000500/,"Houston, Texas, USA", USA,Texas,1960.0,59.0
+1706,Stephen Whitty,US,Freelance film critic,The Hurt Locker ,Kathryn Bigelow,2008.0,Kathryn Bigelow,,/name/nm0000941/,"San Carlos, California, USA", USA,California,1951.0,68.0
+1709,Stephen Whitty,US,Freelance film critic,The Royal Tenenbaums ,Wes Anderson,2001.0,Wes Anderson,,/name/nm0027572/,"Houston, Texas, USA", USA,Texas,1969.0,50.0
+1710,Stephen Whitty,US,Freelance film critic,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1711,Alissa Wilkinson,US,Christianity Today,No Country For Old Men ,Joel and Ethan Coen,2007.0,Joel, Ethan Coen,/name/nm0001054/,"Minneapolis, Minnesota, USA", USA,Minnesota,1954.0,65.0
+1712,Alissa Wilkinson,US,Christianity Today,There Will Be Blood ,Paul Thomas Anderson,2007.0,Paul Thomas Anderson,,/name/nm0000759/,"Studio City, California, USA", USA,California,1970.0,49.0
+1713,Alissa Wilkinson,US,Christianity Today,WALL-E ,Andrew Stanton,2008.0,Andrew Stanton,,/name/nm0004056/,"Boston, Massachusetts, USA", USA,Massachusetts,1965.0,54.0
+1714,Alissa Wilkinson,US,Christianity Today,Spotlight ,Tom McCarthy,2015.0,Tom McCarthy,,/name/nm0565336/,"New Providence, New Jersey, USA", USA,New Jersey,1966.0,53.0
+1716,Alissa Wilkinson,US,Christianity Today,The Social Network ,David Fincher,2010.0,David Fincher,,/name/nm0000399/,"Denver, Colorado, USA", USA,Colorado,1962.0,57.0
+1717,Alissa Wilkinson,US,Christianity Today,The Act of Killing ,Joshua Oppenheimer,2012.0,Joshua Oppenheimer,,/name/nm1484791/,"Texas, USA", USA,Texas,1974.0,45.0
+1719,Alissa Wilkinson,US,Christianity Today,Selma ,Ava DuVernay,2014.0,Ava DuVernay,,/name/nm1148550/,"Long Beach, California, USA", USA,California,1972.0,47.0
+1722,Jake Wilson,Australia,Fairfax Media,AI: Artificial Intelligence ,Steven Spielberg,2001.0,Steven Spielberg,,/name/nm0000229/,"Cincinnati, Ohio, USA", USA,Ohio,1946.0,73.0
+1726,Jake Wilson,Australia,Fairfax Media,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1731,Stephanie Zacharek,US,Time Magazine,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
+1737,Stephanie Zacharek,US,Time Magazine,Lost in Translation ,Sofia Coppola,2003.0,Sofia Coppola,,/name/nm0001068/,"New York City, New York, USA", USA,New York,1971.0,48.0
+1738,Stephanie Zacharek,US,Time Magazine,Femme Fatale ,Brian De Palma,2002.0,Brian De Palma,,/name/nm0000361/,"Newark, New Jersey, USA", USA,New Jersey,1940.0,79.0
+1742,Chadi Zeneddine,Qatar,Doha Film Institute,The Tree of Life ,Terrence Malick,2011.0,Terrence Malick,,/name/nm0000517/,"Ottawa, Illinois, USA", USA,Illinois,1943.0,76.0
+1748,Chadi Zeneddine,Qatar,Doha Film Institute,Mulholland Drive ,David Lynch,2001.0,David Lynch,,/name/nm0000186/,"Missoula, Montana, USA", USA,Montana,1946.0,73.0
